@@ -1,10 +1,5 @@
 package com.epam.epamtaskcleancode.epamconstruction;
 
-/**
- * Hello world!
- *
- */
-import java.io.*;
 import java.util.*;
 public class App 
 {
